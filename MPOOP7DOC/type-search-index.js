@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"practica7","l":"Cuadrilatero"},{"p":"practica7","l":"Poligono"},{"p":"practica7","l":"Practica7"},{"p":"practica7","l":"Triangulo"}];updateSearchResults();
